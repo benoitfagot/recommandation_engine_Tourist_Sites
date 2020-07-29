@@ -1,4 +1,4 @@
-# recommandation_engine_Tourist_Sites
+# little recommandation engine - stay offers
 
 Intelligent system capable of automatically construct stay offers based on client characteristics and requirements
 
